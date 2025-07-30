@@ -1,79 +1,103 @@
-# 💫 About Me
 
-👋 Hi, I'm **Sahil Bambarkar**  
-🚀 *Full-Stack Developer | DSA Enthusiast | Data Science Explorer*
-
-💻 I’m passionate about building scalable and intuitive web applications with clean, maintainable code.  
-🌱 Currently learning and diving deeper into **Data Science** and **Next.js**.  
-🎯 Always curious about new technologies and improving my developer skills.  
-🔗 Check out my latest projects and contributions below!
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sahilbambarkar&label=Profile%20views&color=0e75b6&style=flat" alt="sahilbambarkar" />
+</p>
 
 ---
 
-## 🌐 Connect with Me
+<!-- Optional light/dark mode toggle: -->
+<p align="right">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilbambarkar)  
-📫 Email: sahilbambarkar007@gmail.com
+<!-- GitHub Theme Suggestions -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0f2027&height=200&section=header&text=Sahil%20Bambarkar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
----
+<h1 align="center">Hi there, I'm Sahil Bambarkar 👋</h1>
 
-## 💻 Tech Stack
-
-**Languages**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
-
-**Backend & DB**  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
-
-**State & Tools**  
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React%20Query-%23FF4154.svg?style=flat-square&logo=reactquery&logoColor=white)
-![Context API](https://img.shields.io/badge/Context_API-%23323330.svg?style=flat-square&logo=react&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
-
-**Version Control**  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+<p align="center">
+  <strong>Full-Stack Developer | DSA | Passionate About Building Scalable Web Solutions</strong><br/>
+  <strong>JavaScript, Java, React, Node.js Enthusiast</strong>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 🧠 About Me:
 
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilbambarkar&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbambarkar&layout=compact&theme=tokyonight&hide_border=true)
+- 👋 Hi, I'm Sahil Bambarkar!
+- 💻 Full Stack Developer | DSA | Data Science Enthusiast
+- 🎯 Passionate about crafting intuitive and dynamic user interfaces
+- 📚 Always learning and exploring new technologies
+- 🌱 Check out my projects
+- 📫 Reach me at sahilbambarkar007@gmail.com
+
+---
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sahil-bambarkar-7082632b2)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/sahilbambarkar)
+
+---
+
+## 💻 Tech Stack:
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,...)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats:
+
+![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilbambarkar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbambarkar&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=sahilbambarkar&theme=onedark&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=sahilbambarkar&theme=radical&no-frame=true&margin-w=10)](https://github.com/sahilbambarkar)
 
 ---
 
 ## ✍️ Dev Quote
 
-> "Code is like humor. When you have to explain it, it’s bad." — *Cory House*
+> "Simplicity is the soul of efficiency." – Austin Freeman
 
 ---
 
-## 🔝 Top Projects
 
-[🔗 Portfolio Website](#)  
-[🔗 EV Charging Station App](#)  
-[🔗 Medicine Price Comparison App](#)  
-[🔗 More Projects →](https://github.com/sahilbambarkar?tab=repositories)
 
----
+## 🔝 Top Contributed Repos
 
-*Let’s build something amazing together!*
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/sahilbambarkar/AI-Content-Generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilbambarkar&repo=AI-Content-Generator&theme=dark&border_color=30363d" /></a></td>
+    <td align="center"><a href="https://github.com/sahilbambarkar/Interview-Edge-AI-Mock-Interview-Prep"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilbambarkar&repo=Interview-Edge-AI-Mock-Interview-Prep&theme=dark&border_color=30363d" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/sahilbambarkar/Tripwise-AI-Trip-Planner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilbambarkar&repo=Tripwise-AI-Trip-Planner&theme=dark&border_color=30363d" /></a></td>
+    <td align="center"><a href="https://github.com/sahilbambarkar/mediamojo-social-site"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilbambarkar&repo=mediamojo-social-site&theme=dark&border_color=30363d" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/sahilbambarkar/Flirt-ninja-a-chat-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilbambarkar&repo=Flirt-ninja-a-chat-app&theme=dark&border_color=30363d" /></a></td>
+    <td align="center"><a href="https://github.com/sahilbambarkar/Image_finder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilbambarkar&repo=Image_finder&theme=dark&border_color=30363d" /></a></td>
+  </tr>
+</table>
