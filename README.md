@@ -27,7 +27,7 @@
 ## 🧠 About Me:
 
 - 👋 Hi, I'm Sahil Bambarkar!
-- 💻 Full Stack Developer | DSA | Data Science Enthusiast
+- 💻 Full Stack Developer | DSA | JavaScript, Java, React, Node.js Enthusiast
 - 🎯 Passionate about crafting intuitive and dynamic user interfaces
 - 📚 Always learning and exploring new technologies
 - 🌱 Check out my projects
