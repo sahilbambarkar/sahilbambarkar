@@ -85,19 +85,7 @@
 
 
 
-## 🔝 Top Contributed Repos
+## 🧑‍💻 Top Contributed Repo
 
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/sahilbambarkar/AI-Content-Generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilbambarkar&repo=AI-Content-Generator&theme=dark&border_color=30363d" /></a></td>
-    <td align="center"><a href="https://github.com/sahilbambarkar/Interview-Edge-AI-Mock-Interview-Prep"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilbambarkar&repo=Interview-Edge-AI-Mock-Interview-Prep&theme=dark&border_color=30363d" /></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/sahilbambarkar/Tripwise-AI-Trip-Planner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilbambarkar&repo=Tripwise-AI-Trip-Planner&theme=dark&border_color=30363d" /></a></td>
-    <td align="center"><a href="https://github.com/sahilbambarkar/mediamojo-social-site"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilbambarkar&repo=mediamojo-social-site&theme=dark&border_color=30363d" /></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/sahilbambarkar/Flirt-ninja-a-chat-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilbambarkar&repo=Flirt-ninja-a-chat-app&theme=dark&border_color=30363d" /></a></td>
-    <td align="center"><a href="https://github.com/sahilbambarkar/Image_finder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilbambarkar&repo=Image_finder&theme=dark&border_color=30363d" /></a></td>
-  </tr>
-</table>
+[![Sahil Bambarkar's GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=sahilbambarkar&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/sahilbambarkar)
+
