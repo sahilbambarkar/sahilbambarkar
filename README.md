@@ -12,7 +12,8 @@
 
 <!-- GitHub Theme Suggestions -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0f2027&height=200&section=header&text=Sahil%20Bambarkar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img 
+  src="https://capsule-render.vercel.app/api?type=wave&color=0f2027&height=200&section=header&text=SB&fontSize=80&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi there, I'm Sahil Bambarkar 👋</h1>
